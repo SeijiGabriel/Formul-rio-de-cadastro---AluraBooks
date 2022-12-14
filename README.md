@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Nome do meu projeto
 
 Rápida descrição do objetivo de fazer esse projeto
@@ -15,3 +16,7 @@ Rápida descrição do objetivo de fazer esse projeto
 ## Detalhes do projeto
 
 Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+=======
+# js-consumindo-dados-api
+Repositório do treinamento "JavaScript: Consumindo e tratando dados de uma API" da Alura Cursos Online.
+>>>>>>> b994311 (first commit)
